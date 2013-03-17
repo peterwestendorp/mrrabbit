@@ -8,7 +8,7 @@
   display:block;
   width: 100%;
   -webkit-transform: translateX(0) translateY(0) translateZ(0);
-  -webkit-transition: all .1s;
+  -webkit-transition: all .2s;
 }
 .front-page img.glow {
   width: 30%;

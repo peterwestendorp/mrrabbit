@@ -1,23 +1,29 @@
 $(function(){
+  var threshold = 5;
+
   if(window.DeviceOrientationEvent){
     window.addEventListener("deviceorientation", function(ev){
       handleOrientationEvent(ev.beta, ev.gamma, ev.alpha);
     }, false);
   }
 
-  var handleOrientationEvent = function(frontToBack, leftToRight, rotateDegrees){
-    console.log(Math.round(frontToBack));
-    console.log(Math.round(leftToRight));
-    $('*[data-orientation-layer]').each(function(i, elm){
-      if($(elm).data('orientation-layer') === 1){
-        $(elm).css('transform', 'translateX('+Math.round(leftToRight)+'px) translateY('+frontToBack+'px)');
-      }
-      else if($(elm).data('orientation-layer') === 2){
-        $(elm).css('transform', 'translateX('+Math.round(leftToRight/2)+'px) translateY('+(frontToBack/2)+'px)');
-      }
-      else if($(elm).data('orientation-layer') === 3){
-        $(elm).css('transform', 'translateX('+Math.round(leftToRight/3)+'px) translateY('+(frontToBack/3)+'px)');
-      }
-    });
+  var handleOrientationEvent = function(ftb, ltr, rotateDegrees){
+    var frontToBack = Math.round(ftb),
+        leftToRight = Math.round(ltr);
+
+    if((frontToBack > threshold || frontToBack < (0-threshold)) || (leftToRight > threshold || leftToRight < (0-threshold))){
+      $('*[data-orientation-layer]').each(function(i, elm){
+        var layer = $(elm).data('orientation-layer');
+        if(layer === 1){
+          $(elm).css('transform', 'translateX('+(leftToRight+10)+'px) translateY('+(frontToBack+10)+'px)');
+        }
+        else if(layer === 2){
+          $(elm).css('transform', 'translateX('+((leftToRight/2)+10)+'px) translateY('+((frontToBack/2)+10)+'px)');
+        }
+        else if(layer === 3){
+          $(elm).css('transform', 'translateX('+((leftToRight/3)+10)+'px) translateY('+((frontToBack/3)+10)+'px)');
+        }
+      });
+    }
   };
 });
