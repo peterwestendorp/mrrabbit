@@ -9,7 +9,7 @@
 	 xml:space="preserve">
 <defs>
   <filter id="myGaussianBlur">
-    <feGaussianBlur in="SourceGraphic" stdDeviation="1" />
+    <feGaussianBlur in="SourceGraphic" stdDeviation="1.5" />
   </filter>
 </defs>
 <path fill="#CA6C38" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
