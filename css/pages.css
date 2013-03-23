@@ -65,7 +65,7 @@
   -webkit-transform: rotateX(-90deg) translateX(15%) translateY(-160%) translateZ(200px);
 }
 .scene img.layer-7 {
-  -webkit-transform: rotateX(-90deg) translateZ(650px);
+  -webkit-transform: rotateX(-90deg) translateY(15%) translateZ(650px);
 }
 
 .scene img.glow {
