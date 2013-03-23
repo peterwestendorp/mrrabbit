@@ -11,6 +11,6 @@ $(function(){
     var frontToBack = Math.round(ftb),
         leftToRight = Math.round(ltr);
 
-    $('.scene').css('perspective-origin', ((leftToRight+25)*10)+'px '+((frontToBack+25)*10)+'px')
+    $('.scene').css('perspective-origin', ((leftToRight+10)*10)+'px '+((frontToBack+10)*10)+'px')
   };
 });
