@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+]>
+<svg version="1.1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 x="0px" y="0px" width="814px" height="573px" viewBox="-5.521 -1.82 814 573"
+	 overflow="visible" enable-background="new -5.521 -1.82 814 573" xml:space="preserve">
+<defs>
+</defs>
+<filter  id="myGaussianBlur">
+	<feGaussianBlur  stdDeviation="2" in="SourceGraphic"></feGaussianBlur>
+</filter>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M93.531,37.855c-10.943-3.24-18.576-6.624-26.352,1.296C77.764,43.4,88.707,37.568,93.531,37.855z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M93.531,37.855c-10.943-3.24-18.576-6.624-26.352,1.296C77.764,43.4,88.707,37.568,93.531,37.855z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M244.937,428.16c0,16.128-1.44,27.864,12.525,35.208C258.905,447.24,246.449,434.711,244.937,428.16z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M244.937,428.16c0,16.128-1.44,27.864,12.525,35.208C258.905,447.24,246.449,434.711,244.937,428.16z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M741.385,432.788c0,15.479,1.44,26.712-11.952,33.768C728.067,451.075,740.02,439.124,741.385,432.788z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M741.385,432.788c0,15.479,1.44,26.712-11.952,33.768C728.067,451.075,740.02,439.124,741.385,432.788z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M196.852,536.323c9.861,12.744,15.912,22.971,31.392,20.232
+		C219.531,542.875,202.035,540.643,196.852,536.323z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M196.852,536.323c9.861,12.744,15.912,22.971,31.392,20.232C219.531,542.875,202.035,540.643,196.852,536.323z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M747.003,279.571c-14.184-3.168-24.264-6.768-33.479,3.961
+		C727.419,288.067,740.955,279.571,747.003,279.571z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M747.003,279.571c-14.184-3.168-24.264-6.768-33.479,3.961C727.419,288.067,740.955,279.571,747.003,279.571z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M122.259,469.003c0.507,14.184-0.432,24.479,12.024,30.525
+		C135.075,485.347,123.771,474.763,122.259,469.003z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M122.259,469.003c0.507,14.184-0.432,24.479,12.024,30.525C135.075,485.347,123.771,474.763,122.259,469.003z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M614.869,399.493c-0.505,13.535,0.432,23.472-11.521,29.23
+		C602.555,415.116,613.427,404.964,614.869,399.493z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M614.869,399.493c-0.505,13.535,0.432,23.472-11.521,29.23C602.555,415.116,613.427,404.964,614.869,399.493z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M165.675,272.731c-12.453-0.576-21.453-2.016-27.573,8.352
+		C150.483,282.739,160.491,273.595,165.675,272.731z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M165.675,272.731c-12.453-0.576-21.453-2.016-27.573,8.352C150.483,282.739,160.491,273.595,165.675,272.731z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M645.699,204.619c11.952-0.504,20.52-1.944,26.424,8.136C660.243,214.339,650.593,205.555,645.699,204.619z
+		"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M645.699,204.619c11.952-0.504,20.52-1.944,26.424,8.136C660.243,214.339,650.593,205.555,645.699,204.619z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M119.523,417.091c-4.68,13.392-9.288,22.68,0.144,32.76C125.571,436.963,118.804,422.996,119.523,417.091z"
+		/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M119.523,417.091c-4.68,13.392-9.288,22.68,0.144,32.76C125.571,436.963,118.804,422.996,119.523,417.091z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M689.907,343.147c4.464,12.816,8.928,21.744-0.072,31.465C684.147,362.155,690.553,348.763,689.907,343.147
+		z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M689.907,343.147c4.464,12.816,8.928,21.744-0.072,31.465C684.147,362.155,690.553,348.763,689.907,343.147z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M548.211,545.251c-15.192-0.648-26.208-2.521-33.624,10.368
+		C529.707,557.635,541.947,546.332,548.211,545.251z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M548.211,545.251c-15.192-0.648-26.208-2.521-33.624,10.368C529.707,557.635,541.947,546.332,548.211,545.251z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M78.268,74.896c-13.032-0.504-22.536-2.088-28.944,8.928C62.355,85.552,72.867,75.904,78.268,74.896z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M78.268,74.896c-13.032-0.504-22.536-2.088-28.944,8.928C62.355,85.552,72.867,75.904,78.268,74.896z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M499.393,484.555c-15.189-0.648-26.136-2.52-33.621,10.296
+		C480.889,496.868,493.131,485.635,499.393,484.555z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M499.393,484.555c-15.189-0.648-26.136-2.52-33.621,10.296C480.889,496.868,493.131,485.635,499.393,484.555z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M321.182,7.365c-13.104-0.576-22.536-2.16-28.941,8.928C305.27,18.021,315.782,8.301,321.182,7.365z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M321.182,7.365c-13.104-0.576-22.536-2.16-28.941,8.928C305.27,18.021,315.782,8.301,321.182,7.365z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M356.835,4.219c-9.144,9.288-14.976,16.92-27.216,13.248C337.969,7.315,352.299,7.171,356.835,4.219z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M356.835,4.219c-9.144,9.288-14.976,16.92-27.216,13.248C337.969,7.315,352.299,7.171,356.835,4.219z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M130.539,316.435c0.504,12.456,2.019,21.456-8.496,27.576C120.388,331.555,129.604,321.547,130.539,316.435
+		z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M130.539,316.435c0.504,12.456,2.019,21.456-8.496,27.576C120.388,331.555,129.604,321.547,130.539,316.435z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M129.675,17.419c0.576,13.032,2.16,22.464-8.854,28.872C119.091,33.331,128.739,22.819,129.675,17.419z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M129.675,17.419c0.576,13.032,2.16,22.464-8.854,28.872C119.091,33.331,128.739,22.819,129.675,17.419z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M715.827,238.819c-0.504,11.952-1.944,20.592,8.136,26.424
+		C725.547,253.363,716.691,243.787,715.827,238.819z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M715.827,238.819c-0.504,11.952-1.944,20.592,8.136,26.424C725.547,253.363,716.691,243.787,715.827,238.819z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M51.411,443.659c-14.544,0.648-25.056,2.379-32.184-9.861C33.699,431.851,45.436,442.651,51.411,443.659z"
+		/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M51.411,443.659c-14.544,0.648-25.056,2.379-32.184-9.861C33.699,431.851,45.436,442.651,51.411,443.659z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M751.177,367.267c13.97,0.647,24.048,2.304,30.891-9.504C768.171,355.963,756.939,366.259,751.177,367.267z
+		"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M751.177,367.267c13.97,0.647,24.048,2.304,30.891-9.504C768.171,355.963,756.939,366.259,751.177,367.267z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M462.171,546.475c-12.24-6.984-20.592-13.176-32.256-5.76C441.579,548.851,456.553,544.748,462.171,546.475
+		z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M462.171,546.475c-12.24-6.984-20.592-13.176-32.256-5.76C441.579,548.851,456.553,544.748,462.171,546.475z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M132.481,176.172c0.504-12.384,2.016-21.384-8.496-27.504C122.329,161.052,131.545,171.06,132.481,176.172z
+		"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M132.481,176.172c0.504-12.384,2.016-21.384-8.496-27.504C122.329,161.052,131.545,171.06,132.481,176.172z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M10.027,185.611c0.504-12.456,2.016-21.456-8.496-27.504C-0.125,170.491,9.091,180.499,10.027,185.611z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M10.027,185.611c0.504-12.456,2.016-21.456-8.496-27.504C-0.125,170.491,9.091,180.499,10.027,185.611z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M189.436,4.587c13.104-0.576,22.536-2.16,28.941,8.928C205.348,15.243,194.835,5.523,189.436,4.587z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M189.436,4.587c13.104-0.576,22.536-2.16,28.941,8.928C205.348,15.243,194.835,5.523,189.436,4.587z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M216.479,62.073c13.032-0.504,22.464-2.088,28.872,8.928C232.392,72.728,221.878,63.08,216.479,62.073z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M216.479,62.073c13.032-0.504,22.464-2.088,28.872,8.928C232.392,72.728,221.878,63.08,216.479,62.073z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M149.286,119.642c9.864,10.368,16.992,18.72,21.816,15.336
+		C161.311,123.746,153.391,123.026,149.286,119.642z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M149.286,119.642c9.864,10.368,16.992,18.72,21.816,15.336C161.311,123.746,153.391,123.026,149.286,119.642z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M260.14,15.513c9.72,10.8,15.84,19.512,29.52,15.984C280.947,19.833,265.107,19.042,260.14,15.513z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M260.14,15.513c9.72,10.8,15.84,19.512,29.52,15.984C280.947,19.833,265.107,19.042,260.14,15.513z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M412.203,557.131c-10.512-13.68-16.92-24.552-33.552-21.672
+		C388.009,550.147,406.659,552.523,412.203,557.131z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M412.203,557.131c-10.512-13.68-16.92-24.552-33.552-21.672C388.009,550.147,406.659,552.523,412.203,557.131z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M735.699,239.611c0.792-14.616,0-25.272,12.96-31.248C749.163,223.051,737.355,233.707,735.699,239.611z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M735.699,239.611c0.792-14.616,0-25.272,12.96-31.248C749.163,223.051,737.355,233.707,735.699,239.611z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M782.929,512.275c8.427-11.448,15.48-19.008,9.435-31.392C783.003,491.54,785.379,506.803,782.929,512.275z
+		"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M782.929,512.275c8.427-11.448,15.48-19.008,9.435-31.392C783.003,491.54,785.379,506.803,782.929,512.275z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M673.634,497.803c-0.576,13.752-2.229,23.688,9.36,30.456C684.867,514.507,674.641,503.491,673.634,497.803
+		z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M673.634,497.803c-0.576,13.752-2.229,23.688,9.36,30.456C684.867,514.507,674.641,503.491,673.634,497.803z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M757.155,525.811c-9.576,10.44-15.624,18.864-29.019,15.336
+		C736.779,529.843,752.259,529.195,757.155,525.811z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M757.155,525.811c-9.576,10.44-15.624,18.864-29.019,15.336C736.779,529.843,752.259,529.195,757.155,525.811z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M662.188,472.459c-10.011,11.52-18.288,18.936-12.891,32.76
+		C660.315,494.635,659.163,478.075,662.188,472.459z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M662.188,472.459c-10.011,11.52-18.288,18.936-12.891,32.76C660.315,494.635,659.163,478.075,662.188,472.459z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M486.386,75.464c-9.646-10.44-15.624-18.864-29.017-15.336C466.01,71.432,481.491,72.08,486.386,75.464z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M486.386,75.464c-9.646-10.44-15.624-18.864-29.017-15.336C466.01,71.432,481.491,72.08,486.386,75.464z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M763.131,66.451c-9.576,10.44-15.552,18.864-28.941,15.336C742.827,70.483,758.305,69.835,763.131,66.451z"
+		/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M763.131,66.451c-9.576,10.44-15.552,18.864-28.941,15.336C742.827,70.483,758.305,69.835,763.131,66.451z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M674.301,54.526c-0.576,14.184-2.304,24.408,9.648,31.32C685.823,71.734,675.309,60.358,674.301,54.526z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M674.301,54.526c-0.576,14.184-2.304,24.408,9.648,31.32C685.823,71.734,675.309,60.358,674.301,54.526z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M548.499,38.283c-2.592-14.832-5.904-25.344,5.76-34.416C558.218,18.483,548.787,32.019,548.499,38.283z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M548.499,38.283c-2.592-14.832-5.904-25.344,5.76-34.416C558.218,18.483,548.787,32.019,548.499,38.283z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M609.088,85.027c-15.265,0-26.28-1.368-33.19,11.808C591.088,98.203,602.823,86.467,609.088,85.027z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M609.088,85.027c-15.265,0-26.28-1.368-33.19,11.808C591.088,98.203,602.823,86.467,609.088,85.027z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M717.553,127.651c15.192,0,26.28,1.368,33.192-11.736C735.483,114.475,723.747,126.211,717.553,127.651z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M717.553,127.651c15.192,0,26.28,1.368,33.192-11.736C735.483,114.475,723.747,126.211,717.553,127.651z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M649.083,238.675c10.728,11.88,19.656,19.584,14.184,34.272
+		C651.459,262.003,652.395,244.507,649.083,238.675z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M649.083,238.675c10.728,11.88,19.656,19.584,14.184,34.272C651.459,262.003,652.395,244.507,649.083,238.675z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M624.819,147.955c9.575-10.44,15.624-18.936,28.941-15.336
+		C645.123,143.851,629.715,144.499,624.819,147.955z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M624.819,147.955c9.575-10.44,15.624-18.936,28.941-15.336C645.123,143.851,629.715,144.499,624.819,147.955z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M761.936,5.519c10.694,12.958,19.715,21.487,13.347,36.646C763.417,30.108,765.165,11.832,761.936,5.519z"
+		/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M761.936,5.519c10.694,12.958,19.715,21.487,13.347,36.646C763.417,30.108,765.165,11.832,761.936,5.519z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M686.091,4.347c-10.438,9.576-18.864,15.624-15.336,29.016C682.057,24.723,682.707,9.243,686.091,4.347z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M686.091,4.347c-10.438,9.576-18.864,15.624-15.336,29.016C682.057,24.723,682.707,9.243,686.091,4.347z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M67.684,343.364c0-20.017,1.8-34.561-15.48-43.633C50.403,319.747,65.883,335.155,67.684,343.364z"/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M67.684,343.364c0-20.017,1.8-34.561-15.48-43.633C50.403,319.747,65.883,335.155,67.684,343.364z"/>
+</g>
+<g filter="url(#myGaussianBlur)">
+	<path fill="#F3C108" d="M461.739,486.067c0-15.264,1.438-26.424-11.811-33.408C448.563,467.996,460.371,479.803,461.739,486.067z"
+		/>
+	
+		<path fill="none" stroke="#000000" stroke-width="0.7087" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+		M461.739,486.067c0-15.264,1.438-26.424-11.811-33.408C448.563,467.996,460.371,479.803,461.739,486.067z"/>
+</g>
+</svg>
